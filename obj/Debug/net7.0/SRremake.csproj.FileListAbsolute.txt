@@ -1,0 +1,14 @@
+C:\progPatterns\SRremake\bin\Debug\net7.0\SRremake.exe
+C:\progPatterns\SRremake\bin\Debug\net7.0\SRremake.deps.json
+C:\progPatterns\SRremake\bin\Debug\net7.0\SRremake.runtimeconfig.json
+C:\progPatterns\SRremake\bin\Debug\net7.0\SRremake.dll
+C:\progPatterns\SRremake\bin\Debug\net7.0\SRremake.pdb
+C:\progPatterns\SRremake\obj\Debug\net7.0\SRremake.GeneratedMSBuildEditorConfig.editorconfig
+C:\progPatterns\SRremake\obj\Debug\net7.0\SRremake.AssemblyInfoInputs.cache
+C:\progPatterns\SRremake\obj\Debug\net7.0\SRremake.AssemblyInfo.cs
+C:\progPatterns\SRremake\obj\Debug\net7.0\SRremake.csproj.CoreCompileInputs.cache
+C:\progPatterns\SRremake\obj\Debug\net7.0\SRremake.dll
+C:\progPatterns\SRremake\obj\Debug\net7.0\refint\SRremake.dll
+C:\progPatterns\SRremake\obj\Debug\net7.0\SRremake.pdb
+C:\progPatterns\SRremake\obj\Debug\net7.0\SRremake.genruntimeconfig.cache
+C:\progPatterns\SRremake\obj\Debug\net7.0\ref\SRremake.dll
